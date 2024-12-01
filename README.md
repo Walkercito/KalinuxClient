@@ -1,7 +1,9 @@
 # **KalinuxClient** 🌐
 
 ### **Description**  
+
 A universal synchronization client in its earliest stages of development. Designed to sync data and manage tasks seamlessly across devices using P2P connections, with automatic device discovery and a plugin-based architecture for extensibility. 🚀
+
 ---
 
 ## **Features**  
